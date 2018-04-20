@@ -9,3 +9,5 @@ To install Inkerion on a Windows 10 system or newer:
 ###### Inkerion for Mac
 1. Download the Zip file and hit extract all.
 ###### Inkerion for Linux
+There's a gripped tarball file for Linux users on the Inkerion site.
+**_WARNING:_** The Linux build is currently in its beta stages and is **__extremely__** unstable. If you are doing this with the Inkerion Linux build, use the latest stable build for Linux.
