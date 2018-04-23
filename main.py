@@ -1,3 +1,0 @@
-import lexer
-
-def main():
